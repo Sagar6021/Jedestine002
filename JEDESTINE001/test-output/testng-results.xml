@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-14T22:00:13 IST" name="Default suite" finished-at="2022-07-14T22:00:34 IST" duration-ms="20774">
+    <groups>
+    </groups>
+    <test started-at="2022-07-14T22:00:13 IST" name="Default test" finished-at="2022-07-14T22:00:34 IST" duration-ms="20774">
+      <class name="Jedestine.Categories.Men.TrileTest">
+        <test-method signature="test1()[pri:0, instance:Jedestine.Categories.Men.TrileTest@663c9e7a]" started-at="2022-07-14T22:00:13 IST" name="test1" finished-at="2022-07-14T22:00:33 IST" duration-ms="20670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- Jedestine.Categories.Men.TrileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
